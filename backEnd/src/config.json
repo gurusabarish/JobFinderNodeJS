@@ -1,0 +1,5 @@
+{
+  "port": "8080",
+
+  "db": "mongodb+srv://root:1XWiwR2Ag4Gt5wL0@cluster0.ddj2u.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
